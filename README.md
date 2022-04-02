@@ -12,7 +12,9 @@ Python 3.6 or above
 
 #### Installation:
 open your command prompt as an administrator and install these libraries. Commands for that are as follows...
+
 ->pip install pandas
+
 ->pip install bar_chart_race
 
 ## Dataset:
