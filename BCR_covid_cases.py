@@ -44,7 +44,7 @@ df_final= df_sorted.iloc[:,1:100]
 
 # lets have some animation now , save the output in "filename"
 bcr.bar_chart_race(df=df_sorted,
-                   filename = r"C:\Users\pc\Desktop\Project BCR\extra videos\v104.mp4",
+                   filename = r"C:\Users\pc\Desktop\Project BCR\extra videos\video001.mp4",
                    figsize=(9,4),
                    period_length=800,     #600   #12:11
                    n_bars=12,
