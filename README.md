@@ -1,4 +1,5 @@
 # Bar Chart Race - Covid Cases
+![image in between](https://user-images.githubusercontent.com/100015589/161397281-54084ad1-2b6a-46d4-b9b6-3549f30b792b.JPG)
 
 ## Description:
  As the name is a self-explanatory, this code is an animated Bar Chart Race, performed on the dataset.
