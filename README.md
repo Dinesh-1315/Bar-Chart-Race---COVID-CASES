@@ -22,3 +22,6 @@ open your command prompt as an administrator and install these libraries. Comman
  Dataset can be downloaded from the given link...
  "https://data.humdata.org/dataset/coronavirus-covid-19-cases-and-deaths"
 
+## Output:
+output of the code will be a video file, you can name anything, but in code  file "video01.m4v" is the output we are looking for.
+
